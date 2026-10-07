@@ -17,23 +17,8 @@
 		"tabs": [
 			{
 				"layout": 1,
-				"buttontext": "BEM-VINDO AO AMG RAGNAROK !",
+				"buttontext": "⮕",
 				"imageurl": "https://github.com/FarinhaFA/Servidor/blob/main/AMG%20City_%20Sobreviv%C3%AAncia%20e%20Aventura.png?raw=true",
-				"content": [
-					{
-						"title": "",
-						"text": ""
-					},
-					{
-						"title": "",
-						"text": ""
-					}
-				]
-			},
-			{
-				"layout": 1,
-				"buttontext": "COMANDOS & LOJA",
-				"imageurl": "",
 				"content": [
 					{
 						"title": "",
