@@ -1,0 +1,102 @@
+{
+	"WBUI2":
+	{
+		"settings":
+		{
+			"openbutton": 0,
+			"hideicon": false,
+			"hideiconafter": 60,
+			"iconurl": "https://static.vecteezy.com/system/resources/thumbnails/068/474/070/small_2x/f1-illustration-keyboard-button-on-dark-color-and-transparent-background-png.png",
+			"disableicontext": true,
+			"iconposition": 0,
+			"icontextcolor": 3,
+			"openonstart": true,
+			"openonstartonlynewplayers": true,
+			"updateinterval": 12
+		},
+		"tabs": [
+			{
+				"layout": 1,
+				"buttontext": "BEM-VINDO AO AMG RAGNAROK !",
+				"imageurl": "https://github.com/FarinhaFA/Servidor/blob/main/AMG%20City_%20Sobreviv%C3%AAncia%20e%20Aventura.png?raw=true",
+				"content": [
+					{
+						"title": "",
+						"text": ""
+					},
+					{
+						"title": "",
+						"text": ""
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "COMANDOS & LOJA",
+				"imageurl": "",
+				"content": [
+					{
+						"title": "",
+						"text": ""
+					},
+					{
+						"title": "",
+						"text": ""
+					}
+				]
+			},
+			{
+				"layout": 2,
+				"buttontext": "BEM-VINDO AO AMG RAGNAROK !",
+				"imageurl": "",
+				"content": [
+					{
+						"title": "REGRAS DO SERVIDOR",
+						"text": "Seja bem-vindo ao AMG Ragnarok! Para garantir a diversão de todos, siga estas regras simples:\r\n\r\n• RESPEITO EM PRIMEIRO LUGAR\r\nTrate todos com educação no chat. Ofensas e preconceito não serão tolerados.\r\n\r\n• CONSTRUÇÕES CONSCIENTES\r\nProibido construir ou fechar cavernas de artefatos, obeliscos e áreas de spawns de recursos raros.\r\n\r\n• LIMPEZA DO MAPA\r\nEstruturas temporárias (taming traps, acampamentos) devem ser recolhidas após o uso.\r\n\r\n• DÚVIDAS E SUPORTE\r\nPrecisa de ajuda ou encontrou um bug? Abra um ticket no nosso Discord!"
+					},
+					{
+						"title": "CONFIGURAÇÕES & RATES",
+						"text": "Confira os detalhes técnicos do nosso servidor PvE:\r\n\r\n• EXP / Experiência: 2x (Notes: 2.5x / Boss: 2x)\r\n• Coleta (Harvest): 5x / Dinos: 3.2x\r\n• Domesticação (Taming): 8x\r\n• Criação & Filhotes:\r\n  - Mating Cooldown: 4x mais rápido\r\n  - Incubação/Eclodibilidade: 90x\r\n  - Crescimento de Filhotes: 10x\r\n  - Imprint Facilitado: 100%\r\n\r\n• ESTATÍSTICAS DO PLAYER\r\n  - Peso (Weight): 6.6x por ponto\r\n  - Estamina e Fôlego: 5x por ponto\r\n\r\n• MODS & FACILIDADES\r\n  - DinoDepot ativo\r\n  - Cryofridge sem restrição de área\r\n  - Prevenção de perda de corpo ativada\r\n  - Automático: Limpeza de dinos selvagens às 03:00 e 15:00"
+					}
+				]
+			},
+			{
+				"layout": 2,
+				"buttontext": "COMANDOS & LOJA",
+				"imageurl": "",
+				"content": [
+					{
+						"title": "COMANDOS ÚTEIS DO CHAT",
+						"text": "Digite esses comandos diretamente no chat do jogo (pressione a tecla TAB ou ENTER para abrir o chat):\r\n\r\n• /suicide\r\n  Mata o seu personagem (útil se ficar preso em alguma estrutura/terreno).\r\n\r\n• /pvp ou /pve\r\n  Verifica/altera o status de proteção do jogador (se aplicável).\r\n\r\n• /crosschat (ou /g)\r\n  Permite falar com jogadores em outros mapas do cluster.\r\n\r\n• /decay\r\n  Mostra o tempo de proteção/decay da estrutura que você está olhando."
+					},
+					{
+						"title": "LOJA, KITS & RECOMPENSAS",
+						"text": "Comandos de Loja e Integrações (Em Breve / Ativos):\r\n\r\n• /shop\r\n  Abre a loja de pontos do servidor no chat.\r\n\r\n• /points\r\n  Mostra o seu saldo atual de pontos/moedas.\r\n\r\n• /kit\r\n  Lista os kits disponíveis para resgate no seu nível/VIP.\r\n\r\n• /buy <nome_do_item> <quantidade>\r\n  Comprar um item específico diretamente pela loja do chat.\r\n\r\n• /sell\r\n  Vende o item que você está segurando na mão por pontos."
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "FPS & DESEMPENHO",
+				"imageurl": "",
+				"content": [
+					{
+						"title": "",
+						"text": "Pressione a tecla TAB (ou ' / ~) para abrir o Console do Jogo e digite:\r\n\r\n• r.VolumetricCloud 0\r\n  Remove as nuvens 3D e dá um grande ganho de FPS.\r\n\r\n• r.VolumetricFog 0\r\n  Remove a neblina densa e melhora drasticamente a visibilidade/FPS.\r\n\r\n• r.ShadowQuality 1\r\n  Reduz a qualidade das sombras para otimizar o desempenho.\r\n\r\n• grass.densityScale 0\r\n  Remove a grama alta do chão (facilita ver corpos e dinos).\r\n\r\n• r.vsync 0\r\n  Desativa o V-Sync para destravar a taxa de quadros (FPS)."
+					}
+				]
+			}
+		],
+		"links": [
+			{
+				"text": "Discord",
+				"url": "https://discord.gg/sAsTcVwTRU "
+			},
+			{
+				"text": "YouTube",
+				"url": "https://www.youtube.com/@FarinhaFA"
+			}
+		],
+		"version": 2
+	}
+}
